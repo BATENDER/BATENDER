@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de BATENDER ||ヽ(*￣▽￣*)ノミ|Ю
+## Bem-vindo(a) ao perfil de BATENDER (⌐■_■)
 
  <div>
    <a href="https://github.com/BATENDER">
