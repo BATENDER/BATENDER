@@ -2,7 +2,7 @@
  <img height="200" src="https://github.com/BATENDER/BATENDER/assets/65036435/53b2a0cc-c9b9-45c9-a68b-c7519b32a8bb" />
 </div>
 
-<h1 align="center">Bem-vindo(a) ao perfil de BATENDER (⌐■_■)/</h1>
+<h1 align="center">Bem-vindo(a) ao perfil de Vinícius Tôrres (⌐■_■)/</h1>
 
 ###
 
