@@ -26,7 +26,6 @@
 
 <h1 align="center">Bem-vindo(a) ao perfil de Tôrres (⌐■_■)/</h1>
 
-<br>
 ###
 
 <h3 align="left">👩‍💻  Sobre mim :</h3>
