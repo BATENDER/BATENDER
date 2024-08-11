@@ -26,6 +26,7 @@
 
 <h1 align="center">Bem-vindo(a) ao perfil de Tôrres (⌐■_■)/</h1>
 
+<br>
 ###
 
 <h3 align="left">👩‍💻  Sobre mim :</h3>
@@ -36,12 +37,13 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/rxyt5gk4v4h2sov0wfkn6cdp6">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=rxyt5gk4v4h2sov0wfkn6cdp6&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
+<br><br>
 ###
 
 <h3 align="left">🛠 Linguagens e ferramentas :</h3>
@@ -68,6 +70,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+<br><br>
 ###
 
 <h3 align="left">🔥   Meus status :</h3>
