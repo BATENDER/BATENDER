@@ -1,55 +1,87 @@
 <div align="center">
- <img height="200" src="https://github.com/BATENDER/BATENDER/assets/65036435/53b2a0cc-c9b9-45c9-a68b-c7519b32a8bb" />
-</div>
-
-<h1 align="center">Bem-vindo(a) ao perfil de Vinícius Tôrres (⌐■_■)/</h1>
-
-###
-
-<h3>🔥 Meu status :</h3>
-
- <div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BATENDER&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BATENDER&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="150" src="https://github.com/BATENDER/BATENDER/assets/65036435/53b2a0cc-c9b9-45c9-a68b-c7519b32a8bb"  />
 </div>
 
 ###
 
-<h3>🛠 Linguagens e ferramentas:</h3>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
-  <img align="center" alt="PostGreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-</div>
- 
-###
- 
-  ### Pra me acompanhar em outras platafomas, me segue nas redes abaixo!
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UCwJPO38dm3KklATUrXhTNjw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
-  <a href = "mailto:vinicius.torres.san@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="center">
+  <a href="https://x.com/GrubNotInfected" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href=".rush_b" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="vinicius.torres.san@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BATENDER.BATENDER&left_color=chocolate"  />
+</div>
+
+###
+
+<h1 align="center">Bem-vindo(a) ao perfil de Tôrres (⌐■_■)/</h1>
+
+###
+
+<h3 align="left">👩‍💻  Sobre mim :</h3>
+
+###
+
+<p align="left">Sou de Brasília, capital do Brasil<br><br>- 🔭 Sou funcionário de TI da Caixa Econômica Federal<br>- 📚 Atualmente estou estudando Engenharia da Computação no IESB<br>- ⚡ No meu tempo livre aprendo um pouco mais sobre a vida, verdade e universo...</p>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/rxyt5gk4v4h2sov0wfkn6cdp6">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=rxyt5gk4v4h2sov0wfkn6cdp6&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">🛠 Linguagens e ferramentas :</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   Meus status :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BATENDER&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=BATENDER&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BATENDER&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/BATENDER/BATENDER/output/snake.svg" alt="Snake animation" />
+
+###
